@@ -1,1 +1,2 @@
 addiziono 2 numeri: 3 + 2 = 5
+addiziono 3 numeri: 3 + 2 + 1 = 6
