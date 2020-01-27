@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 moltiplico 2*2=4
-=======
 moltiplicazione 2 x 0 = 0
->>>>>>> fix
