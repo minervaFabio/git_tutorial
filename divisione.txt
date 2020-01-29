@@ -1,1 +1,2 @@
 divido 2/2=1
+divido 3/3=1
