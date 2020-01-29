@@ -1,2 +1,2 @@
 moltiplico 2*2=4
-moltiplicazione 2 x 0 = 0
+moltiplico 2*0 = 0
